@@ -1,0 +1,3 @@
+<resources>
+    <string name="svc_desc">Detects when you are inside Instagram Reels or YouTube Shorts to count, limit or block them. Works fully offline; reads view IDs only, never your content.</string>
+</resources>
